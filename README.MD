@@ -1,6 +1,9 @@
-#Este projeto implementa um sistema simples de detecção de faces que processa um arquivo de vídeo para identificar faces humanas em cada frame, utilizando o classificador Haar Cascade pré-treinado do OpenCV. As faces detectadas são destacadas com retângulos azuis e exibidas em tempo real.
+### Checkpoint 2
 
-#Visão Geral do Projeto
+Este projeto implementa um sistema simples de detecção de faces que processa um arquivo de vídeo para identificar faces humanas em cada frame, utilizando o classificador Haar Cascade pré-treinado do OpenCV. As faces detectadas são destacadas com retângulos azuis e exibidas em tempo real.
+
+--- 
+### Visão Geral do Projeto
 O script utiliza a biblioteca OpenCV para:
 
 Carregar um arquivo de vídeo.
@@ -11,26 +14,27 @@ Exibir os frames processados em uma janela.
 Repetir o vídeo continuamente até que o usuário pressione 'q' para sair.
 
 
-#Pré-requisitos
+### Pré-requisitos
 Para executar este projeto, você precisará de:
 
-Python 3
-OpenCV: A biblioteca opencv-python é necessária para o processamento de imagens e detecção de faces.
+- Python 3  
+- OpenCV  
+> A biblioteca opencv-python é necessária para o processamento de imagens e detecção de faces.
 Arquivo de Vídeo: Um arquivo de vídeo (ex.: video.mp4) para processar. Coloque-o no mesmo diretório do script ou forneça o caminho completo.
 
-#Instalar :
-Python ,
-pip install opencv-python
+### Instalar :
+- Python  
+- ```pip install opencv-python```
 
-#Executar o Script:
+### Executar o Script:
 Abra um terminal no diretório do projeto e execute:
 
-python deteccao.py
+```python deteccao.py```
 
 
-Integrantes :
+### Integrantes :
 
-Gustavo Nascimento 93292
-Gabriel Jun 93540
-Enrico Thomas 94371
-Luigi Macedo 93989
+Gustavo Nascimento 93292  
+Gabriel Jun 93540  
+Enrico Thomas 94371  
+Luigi Macedo 93989  
