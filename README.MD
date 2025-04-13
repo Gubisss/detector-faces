@@ -26,3 +26,11 @@ pip install opencv-python
 Abra um terminal no diretório do projeto e execute:
 
 python deteccao.py
+
+
+Integrantes :
+
+Gustavo Nascimento 93292
+Gabriel Jun 93540
+Enrico Thomas 94371
+Luigi Macedo 93989
